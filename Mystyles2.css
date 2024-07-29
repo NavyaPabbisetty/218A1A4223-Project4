@@ -1,0 +1,73 @@
+/*CSS for styling the navigation menu*/
+nav{
+    background-color:none;
+    color:white;
+    padding:10px;
+    padding-left: 900px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+nav ul{
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;   
+}
+nav ul li {
+    color: rgb(197, 137, 147);
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: under line;
+}
+h1{
+    text-align: center;
+}
+section{
+    padding: 20px;
+}
+section h2,p{
+    text-align: center;
+}
+footer{
+    background-color: #2828d4;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.image{
+    margin-right: 20px;
+}
+.text{
+    flex: 1;
+}
+.starters{
+    font-size: 30px;
+}
+.sresru{
+
+    float: left;
+    display: flex;
+    padding-left: 100px;
+    gap: 50px;
+}
+.nasresru{
+
+    float: left;
+    display: flex;
+    padding-left: 300px;
+    gap: 50px;
+}
